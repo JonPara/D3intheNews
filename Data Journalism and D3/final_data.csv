@@ -1,0 +1,53 @@
+id,state,abbr,education,healthcare
+1,Alabama,AL,23.5,10.3%
+2,Alaska,AK,28,9.3%
+4,Arizona,AZ,27.6,8.4%
+5,Arkansas,AR,21.4,7.1%
+6,California,CA,31.7,11.8%
+8,Colorado,CO,38.3,8.3%
+9,Connecticut,CT,38,5.3%
+10,Delaware,DE,30.6,3.4%
+11,District of Columbia,DC,55,6.2%
+12,Florida,FL,27.3,10.4%
+13,Georgia,GA,29.1,12.0%
+15,Hawaii,HI,31,7.4%
+16,Idaho,ID,25,4.9%
+17,Illinois,IL,32.8,12.4%
+18,Indiana,IN,24.7,7.1%
+19,Iowa,IA,27.7,8.9%
+20,Kansas,KS,31.5,9.7%
+21,Kentucky,KY,22.2,5.2%
+22,Louisiana,LA,22.9,13.7%
+23,Maine,ME,29.4,3.1%
+24,Maryland,MD,38.2,4.0%
+25,Massachusetts,MA,41.2,7.9%
+26,Michigan,MI,27.4,6.7%
+27,Minnesota,MN,34.3,5.4%
+28,Mississippi,MS,21.1,8.1%
+29,Missouri,MO,27.5,11.6%
+30,Montana,MT,29.3,8.9%
+31,Nebraska,NE,29.5,13.1%
+32,Nevada,NV,23.1,5.4%
+33,New Hampshire,NH,35,7.8%
+34,New Jersey,NJ,37.4,8.1%
+35,New Mexico,NM,26.4,8.5%
+36,New York,NY,34.5,10.7%
+37,North Carolina,NC,28.7,10.7%
+38,North Dakota,ND,27.4,8.3%
+39,Ohio,OH,26.6,6.6%
+40,Oklahoma,OK,24.2,9.4%
+41,Oregon,OR,30.8,6.8%
+42,Pennsylvania,PA,29,6.5%
+44,Rhode Island,RI,30.4,4.2%
+45,South Carolina,SC,26.3,4.4%
+46,South Dakota,SD,27.8,11.3%
+47,Tennessee,TN,25.3,6.9%
+48,Texas,TX,27.8,9.0%
+49,Utah,UT,31.1,15.7%
+50,Vermont,VT,34.9,10.2%
+51,Virginia,VA,36.7,8.6%
+53,Washington,WA,33.1,5.2%
+54,West Virginia,WV,19.2,5.9%
+55,Wisconsin,WI,28.4,5.8%
+56,Wyoming,WY,26.6,7.0%
+72,Puerto Rico,PR,24.4,8.4%
