@@ -18,18 +18,18 @@ var chartGroup = svg.append("g")
                     .attr("transform", `translate(${margin.left}, ${margin.top})`);
 
 // Import data from an external CSV file
-d3.csv("usData.csv", function(error, healthData){
+d3.csv("final_data.csv", function(error, data){
     if (error) throw error;
 
-    console.log(healthData);
-    console.log([healthData]);
+    console.log(data);
+    console.log([data]);
 
     // Format the data
     healthData.forEach(function(data){
-        // Add formatted data once finished
-        // Add formatted data once finished
-        // Add formatted data once finished
-        // Add formatted data once finished
+        data.state = +data.state;
+        data.abbr = +data.abbr;
+        data.education = +data.education;
+        data.healthcare = +data.healthcare;
     });
 
     console.log(healthData)
@@ -53,7 +53,7 @@ d3.csv("usData.csv", function(error, healthData){
 
     // Create circles
     var circlesGroup = chartGroup.selectAll("circle")
-                                 .data(healthData)
+                                 .data(dataata)
                                  .enter()
                                  .append("circle")
                                  .attr("cx", d => xLinearScale(d.length))
