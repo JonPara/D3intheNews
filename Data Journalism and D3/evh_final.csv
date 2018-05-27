@@ -1,0 +1,105 @@
+Locationabbr,Locationdesc,Question,Response,Sample_Size
+AL,Alabama,Do you have any kind of health care coverage?,Yes,"7,825"
+AL,Alabama,Do you have any kind of health care coverage?,No,806
+AK,Alaska,Do you have any kind of health care coverage?,Yes,"3,905"
+AK,Alaska,Do you have any kind of health care coverage?,No,448
+AZ,Arizona,Do you have any kind of health care coverage?,Yes,"13,749"
+AZ,Arizona,Do you have any kind of health care coverage?,No,"1,053"
+AR,Arkansas,Do you have any kind of health care coverage?,Yes,"4,782"
+AR,Arkansas,Do you have any kind of health care coverage?,No,440
+CA,California,Do you have any kind of health care coverage?,Yes,"7,756"
+CA,California,Do you have any kind of health care coverage?,No,"1,041"
+CO,Colorado,Do you have any kind of health care coverage?,Yes,"12,227"
+CO,Colorado,Do you have any kind of health care coverage?,No,"1,113"
+CT,Connecticut,Do you have any kind of health care coverage?,Yes,"7,505"
+CT,Connecticut,Do you have any kind of health care coverage?,No,417
+DE,Delaware,Do you have any kind of health care coverage?,Yes,"4,022"
+DE,Delaware,Do you have any kind of health care coverage?,No,265
+DC,District of Columbia,Do you have any kind of health care coverage?,Yes,"3,921"
+DC,District of Columbia,Do you have any kind of health care coverage?,No,139
+FL,Florida,Do you have any kind of health care coverage?,Yes,"8,761"
+FL,Florida,Do you have any kind of health care coverage?,No,"1,012"
+GA,Georgia,Do you have any kind of health care coverage?,Yes,"5,563"
+GA,Georgia,Do you have any kind of health care coverage?,No,761
+HI,Hawaii,Do you have any kind of health care coverage?,Yes,"6,697"
+HI,Hawaii,Do you have any kind of health care coverage?,No,534
+ID,Idaho,Do you have any kind of health care coverage?,Yes,"4,787"
+ID,Idaho,Do you have any kind of health care coverage?,No,679
+IL,Illinois,Do you have any kind of health care coverage?,Yes,"4,687"
+IL,Illinois,Do you have any kind of health care coverage?,No,356
+IN,Indiana,Do you have any kind of health care coverage?,Yes,"10,462"
+IN,Indiana,Do you have any kind of health care coverage?,No,"1,016"
+IA,Iowa,Do you have any kind of health care coverage?,Yes,"7,712"
+IA,Iowa,Do you have any kind of health care coverage?,No,397
+KS,Kansas,Do you have any kind of health care coverage?,Yes,"12,331"
+KS,Kansas,Do you have any kind of health care coverage?,No,"1,332"
+KY,Kentucky,Do you have any kind of health care coverage?,Yes,"10,587"
+KY,Kentucky,Do you have any kind of health care coverage?,No,576
+LA,Louisiana,Do you have any kind of health care coverage?,Yes,"5,829"
+LA,Louisiana,Do you have any kind of health care coverage?,No,922
+ME,Maine,Do you have any kind of health care coverage?,Yes,"8,396"
+ME,Maine,Do you have any kind of health care coverage?,No,717
+MD,Maryland,Do you have any kind of health care coverage?,Yes,"12,030"
+MD,Maryland,Do you have any kind of health care coverage?,No,497
+MA,Massachusetts,Do you have any kind of health care coverage?,Yes,"15,098"
+MA,Massachusetts,Do you have any kind of health care coverage?,No,488
+MI,Michigan,Do you have any kind of health care coverage?,Yes,"7,860"
+MI,Michigan,Do you have any kind of health care coverage?,No,568
+MN,Minnesota,Do you have any kind of health care coverage?,Yes,"15,492"
+MN,Minnesota,Do you have any kind of health care coverage?,No,876
+MS,Mississippi,Do you have any kind of health care coverage?,Yes,"3,699"
+MS,Mississippi,Do you have any kind of health care coverage?,No,486
+MO,Missouri,Do you have any kind of health care coverage?,Yes,"6,478"
+MO,Missouri,Do you have any kind of health care coverage?,No,572
+MT,Montana,Do you have any kind of health care coverage?,Yes,"6,806"
+MT,Montana,Do you have any kind of health care coverage?,No,664
+NE,Nebraska,Do you have any kind of health care coverage?,Yes,"20,593"
+NE,Nebraska,Do you have any kind of health care coverage?,No,"1,732"
+NV,Nevada,Do you have any kind of health care coverage?,Yes,"3,345"
+NV,Nevada,Do you have any kind of health care coverage?,No,401
+NH,New Hampshire,Do you have any kind of health care coverage?,No,497
+NH,New Hampshire,Do you have any kind of health care coverage?,Yes,"5,668"
+NJ,New Jersey,Do you have any kind of health care coverage?,Yes,"11,886"
+NJ,New Jersey,Do you have any kind of health care coverage?,No,"1,104"
+NM,New Mexico,Do you have any kind of health care coverage?,Yes,"7,954"
+NM,New Mexico,Do you have any kind of health care coverage?,No,949
+NY,New York,Do you have any kind of health care coverage?,Yes,"6,276"
+NY,New York,Do you have any kind of health care coverage?,No,565
+NC,North Carolina,Do you have any kind of health care coverage?,Yes,"6,313"
+NC,North Carolina,Do you have any kind of health care coverage?,No,950
+ND,North Dakota,Do you have any kind of health care coverage?,Yes,"7,326"
+ND,North Dakota,Do you have any kind of health care coverage?,No,421
+OH,Ohio,Do you have any kind of health care coverage?,Yes,"10,170"
+OH,Ohio,Do you have any kind of health care coverage?,No,720
+OK,Oklahoma,Do you have any kind of health care coverage?,Yes,"7,631"
+OK,Oklahoma,Do you have any kind of health care coverage?,No,794
+OR,Oregon,Do you have any kind of health care coverage?,Yes,"4,852"
+OR,Oregon,Do you have any kind of health care coverage?,No,354
+PA,Pennsylvania,Do you have any kind of health care coverage?,Yes,"10,243"
+PA,Pennsylvania,Do you have any kind of health care coverage?,No,707
+RI,Rhode Island,Do you have any kind of health care coverage?,Yes,"6,151"
+RI,Rhode Island,Do you have any kind of health care coverage?,No,282
+SC,South Carolina,Do you have any kind of health care coverage?,Yes,"9,732"
+SC,South Carolina,Do you have any kind of health care coverage?,No,"1,243"
+SD,South Dakota,Do you have any kind of health care coverage?,Yes,"6,865"
+SD,South Dakota,Do you have any kind of health care coverage?,No,506
+TN,Tennessee,Do you have any kind of health care coverage?,Yes,"4,666"
+TN,Tennessee,Do you have any kind of health care coverage?,No,463
+TX,Texas,Do you have any kind of health care coverage?,Yes,"12,935"
+TX,Texas,Do you have any kind of health care coverage?,No,"2,404"
+UT,Utah,Do you have any kind of health care coverage?,Yes,"13,443"
+UT,Utah,Do you have any kind of health care coverage?,No,"1,522"
+VT,Vermont,Do you have any kind of health care coverage?,Yes,"6,115"
+VT,Vermont,Do you have any kind of health care coverage?,No,338
+VA,Virginia,Do you have any kind of health care coverage?,Yes,"8,620"
+VA,Virginia,Do you have any kind of health care coverage?,No,812
+WA,Washington,Do you have any kind of health care coverage?,Yes,"9,453"
+WA,Washington,Do you have any kind of health care coverage?,No,595
+WV,West Virginia,Do you have any kind of health care coverage?,Yes,"5,755"
+WV,West Virginia,Do you have any kind of health care coverage?,No,433
+WI,Wisconsin,Do you have any kind of health care coverage?,Yes,"6,623"
+WI,Wisconsin,Do you have any kind of health care coverage?,No,408
+WY,Wyoming,Do you have any kind of health care coverage?,Yes,"5,847"
+WY,Wyoming,Do you have any kind of health care coverage?,No,542
+PR,Puerto Rico,Do you have any kind of health care coverage?,Yes,"5,733"
+PR,Puerto Rico,Do you have any kind of health care coverage?,No,250
